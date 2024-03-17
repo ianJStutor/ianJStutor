@@ -1,16 +1,69 @@
-### Hi there 👋
+# You're here! 👋
 
-<!--
-**ianJStutor/ianJStutor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ian. Thanks for coming. Here's what to expect:
 
-Here are some ideas to get you started:
+* [About me](#about-me)
+* [Business web dev](#business-web-dev)
+* [Custom libraries](#custom-libraries)
+* [Curricula and tutorials](#curricula-and-tutorials)
+* [Animations](#animations)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+Aut quidem officiis quam mollitia ea officiis. Sapiente atque animi ipsum maxime eos sapiente. Quae dolores maxime quia explicabo. Sit soluta et dolor minima non corrupti. Sit quisquam sit sunt qui porro sit.
+
+Aperiam necessitatibus numquam tempora. Numquam ut et doloribus excepturi numquam dolor ducimus. Hic recusandae enim perferendis. Ab eaque aut eos voluptas rem placeat omnis. Minima quibusdam dolor cumque ut doloremque.
+
+Quia accusantium ab est fuga. Consequuntur aut cum aut assumenda. Amet et sequi delectus modi.
+
+Explicabo repellat reprehenderit eius. Ut nulla magnam explicabo. Laborum eligendi nihil modi nihil et voluptate. Quas qui odio aut. Optio et voluptas earum quia sed.
+
+Suscipit aliquid molestiae nesciunt quia quae dolor. Non mollitia deleniti omnis et sed et odit nobis. Harum veritatis voluptas modi.
+
+## Business web dev
+
+Aut quidem officiis quam mollitia ea officiis. Sapiente atque animi ipsum maxime eos sapiente. Quae dolores maxime quia explicabo. Sit soluta et dolor minima non corrupti. Sit quisquam sit sunt qui porro sit.
+
+Aperiam necessitatibus numquam tempora. Numquam ut et doloribus excepturi numquam dolor ducimus. Hic recusandae enim perferendis. Ab eaque aut eos voluptas rem placeat omnis. Minima quibusdam dolor cumque ut doloremque.
+
+Quia accusantium ab est fuga. Consequuntur aut cum aut assumenda. Amet et sequi delectus modi.
+
+Explicabo repellat reprehenderit eius. Ut nulla magnam explicabo. Laborum eligendi nihil modi nihil et voluptate. Quas qui odio aut. Optio et voluptas earum quia sed.
+
+Suscipit aliquid molestiae nesciunt quia quae dolor. Non mollitia deleniti omnis et sed et odit nobis. Harum veritatis voluptas modi.
+
+## Custom libraries
+
+Aut quidem officiis quam mollitia ea officiis. Sapiente atque animi ipsum maxime eos sapiente. Quae dolores maxime quia explicabo. Sit soluta et dolor minima non corrupti. Sit quisquam sit sunt qui porro sit.
+
+Aperiam necessitatibus numquam tempora. Numquam ut et doloribus excepturi numquam dolor ducimus. Hic recusandae enim perferendis. Ab eaque aut eos voluptas rem placeat omnis. Minima quibusdam dolor cumque ut doloremque.
+
+Quia accusantium ab est fuga. Consequuntur aut cum aut assumenda. Amet et sequi delectus modi.
+
+Explicabo repellat reprehenderit eius. Ut nulla magnam explicabo. Laborum eligendi nihil modi nihil et voluptate. Quas qui odio aut. Optio et voluptas earum quia sed.
+
+Suscipit aliquid molestiae nesciunt quia quae dolor. Non mollitia deleniti omnis et sed et odit nobis. Harum veritatis voluptas modi.
+
+## Curricula and tutorials
+
+Aut quidem officiis quam mollitia ea officiis. Sapiente atque animi ipsum maxime eos sapiente. Quae dolores maxime quia explicabo. Sit soluta et dolor minima non corrupti. Sit quisquam sit sunt qui porro sit.
+
+Aperiam necessitatibus numquam tempora. Numquam ut et doloribus excepturi numquam dolor ducimus. Hic recusandae enim perferendis. Ab eaque aut eos voluptas rem placeat omnis. Minima quibusdam dolor cumque ut doloremque.
+
+Quia accusantium ab est fuga. Consequuntur aut cum aut assumenda. Amet et sequi delectus modi.
+
+Explicabo repellat reprehenderit eius. Ut nulla magnam explicabo. Laborum eligendi nihil modi nihil et voluptate. Quas qui odio aut. Optio et voluptas earum quia sed.
+
+Suscipit aliquid molestiae nesciunt quia quae dolor. Non mollitia deleniti omnis et sed et odit nobis. Harum veritatis voluptas modi.
+
+## Animations
+
+Aut quidem officiis quam mollitia ea officiis. Sapiente atque animi ipsum maxime eos sapiente. Quae dolores maxime quia explicabo. Sit soluta et dolor minima non corrupti. Sit quisquam sit sunt qui porro sit.
+
+Aperiam necessitatibus numquam tempora. Numquam ut et doloribus excepturi numquam dolor ducimus. Hic recusandae enim perferendis. Ab eaque aut eos voluptas rem placeat omnis. Minima quibusdam dolor cumque ut doloremque.
+
+Quia accusantium ab est fuga. Consequuntur aut cum aut assumenda. Amet et sequi delectus modi.
+
+Explicabo repellat reprehenderit eius. Ut nulla magnam explicabo. Laborum eligendi nihil modi nihil et voluptate. Quas qui odio aut. Optio et voluptas earum quia sed.
+
+Suscipit aliquid molestiae nesciunt quia quae dolor. Non mollitia deleniti omnis et sed et odit nobis. Harum veritatis voluptas modi.
