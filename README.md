@@ -3,7 +3,7 @@
 I'm Ian. Thanks for coming. Here's what to expect:
 
 * [About me](#about-me)
-* [Business web dev](#business-web-dev)
+* [Web apps](#web-apps)
 * [Custom libraries](#custom-libraries)
 * [Curricula and tutorials](#curricula-and-tutorials)
 * [Animations](#animations)
