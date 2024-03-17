@@ -58,5 +58,4 @@ Suscipit aliquid molestiae nesciunt quia quae dolor. Non mollitia deleniti omnis
 
 ## Animations
 
-* [![Candle](https://github.com/ianJStutor/candle/blob/4292c7b62e32000c9760c6a7c13dd8d16cca0813/assets/img/candle.png)](https://github.com/ianJStutor/candle)
-    **Candle:** The candle flame responds to phone movement and will extinguish when you blow on it!
+* **[Candle](https://github.com/ianJStutor/candle):** The candle flame responds to phone movement and will extinguish when you blow on it!
