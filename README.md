@@ -3,8 +3,7 @@
 I'm Ian. Thanks for coming. Here's what to expect:
 
 * [About me](#about-me)
-* [Full-stack apps](#full-stack-apps)
-* [Front-end apps](#front-end-apps)
+* [Web apps](#web-apps)
 * [Custom libraries](#custom-libraries)
 * [Curricula and tutorials](#curricula-and-tutorials)
 * [Animations](#animations)
@@ -15,13 +14,10 @@ I have deep knowledge of JavaScript and have been using it since 1996. I launche
 
 For the last decade I've focused on web development education as a technical training specialist, curriculum developer, instructional designer, and technical writer. I've helped well over three thousand students learn HTML, CSS, JavaScript (including frameworks like React, Svelte, etc.), Node, database design and management, computer science, application development, SDLC, Agile, programming paradigms, algorithmic thinking, efficiency, accessibility, web security, constantly evolving best practices, and how to survive a coding boot camp.
 
-## Full-stack apps
+## Web apps
 
 * **[Dadjokesian](https://github.com/ianJStutor/dadjokesian):** **Next.js**, **Tailwind**, **Supabase**. A dad-joke repository.
-
-## Front-end apps
-
-* **[Whiteboard](https://github.com/ianJStutor/whiteboard):** The web app I use when I'm teaching on Zoom
+* **[Whiteboard](https://github.com/ianJStutor/whiteboard):** **Vanilla**. The web app I use when I'm teaching on Zoom
 
 ## Custom libraries
 
