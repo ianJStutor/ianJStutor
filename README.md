@@ -16,8 +16,9 @@ For the last decade I've focused on web development education as a technical tra
 
 ## Web apps
 
+* **[Analytician](https://github.com/ianJStutor/analyticsian):** **Next.js**, **TypeScript**, **Tailwind**, **Upstash/Redis**, **Tremor data viz**. Site analytics.
 * **[Dadjokesian](https://github.com/ianJStutor/dadjokesian):** **Next.js**, **Tailwind**, **Supabase**. A dad-joke repository.
-* **[Whiteboard](https://github.com/ianJStutor/whiteboard):** **Vanilla**. The web app I use when I'm teaching on Zoom
+* **[Whiteboardian](https://github.com/ianJStutor/whiteboard):** **Vanilla**. The web app I use when I'm teaching on Zoom
 
 ## Custom libraries
 
