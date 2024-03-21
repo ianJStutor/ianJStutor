@@ -17,7 +17,8 @@ For the last decade I've focused on web development education as a technical tra
 ## Web apps
 
 * **[Analytician](https://github.com/ianJStutor/analyticsian):** **Next.js**, **TypeScript**, **Tailwind**, **Upstash/Redis**, **data viz**. Site analytics.
-* **[Dadjokesian](https://github.com/ianJStutor/dadjokesian):** **Next.js**, **Tailwind**, **Supabase**, **auth**. A dad-joke repository.
+* **[Weatherian](https://github.com/ianJStutor/weatherian):** **Next.js**, **TypeScript**, **Tailwind**, **api**. Weather app.
+* **[Dadjokesian](https://github.com/ianJStutor/dadjokesian):** **Next.js**, **Tailwind**, **Supabase**, **auth**, **api**. A dad-joke repository.
 * **[Whiteboardian](https://github.com/ianJStutor/whiteboard):** **Vanilla**. The web app I use when I'm teaching on Zoom
 
 ## Custom libraries
