@@ -5,7 +5,7 @@ I'm Ian. Thanks for coming. Here's what to expect:
 * [About me](#about-me)
 * [Web apps](#web-apps)
 * [Custom libraries](#custom-libraries)
-* [Curricula and tutorials](#curricula-and-tutorials)
+* [Courses and tutorials](#courses-and-tutorials)
 * [Animations](#animations)
 
 ## About me
