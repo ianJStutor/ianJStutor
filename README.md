@@ -21,6 +21,7 @@ For the last decade I've focused on web development education as a technical tra
 * **[Dadjokesian](https://github.com/ianJStutor/dadjokesian):** **Next.js**, **Tailwind**, **Supabase**, **auth**, **api**. Dad-joke repository.
 * **[Todoian](https://github.com/ianJStutor/todoian):** **Next.js**, **TypeScript**, **Tailwind**, **Prisma**, **MongoDB**, **auth**. A todo manager.
 * **[Recipeian](https://github.com/ianJStutor/recipeian):** **React.js**, **Tailwind**, **api**. Recipe explorer.
+* **[Expenseian](https://github.com/ianJStutor/expenseian):** **React.js**, **unit testing**. Expense manager.
 * **[Whiteboardian](https://github.com/ianJStutor/whiteboard):** **Vanilla**. The web app I use when I'm teaching on Zoom
 
 ## Custom libraries
