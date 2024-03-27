@@ -24,6 +24,7 @@ For the last decade I've focused on web development education as a technical tra
 * **[Gamelistian](https://github.com/ianJStutor/gamelistian):** **React.js**, **Tailwind**, **api**. Game list.
 * **[Expenseian](https://github.com/ianJStutor/expenseian):** **React.js**, **unit testing**. Expense manager.
 * **[Bloggian](https://github.com/ianJStutor/bloggian):** **React.js**, **Express**, **MongoDB**, **auth**. Blog platform.
+* **[Portfolioian](https://github.com/ianJStutor/portfolioian):** **React.js**, **Tailwind**. Portfolio site.
 * **[Whiteboardian](https://github.com/ianJStutor/whiteboard):** **Vanilla**. The web app I use when I'm teaching on Zoom
 
 ## Custom libraries
