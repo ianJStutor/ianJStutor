@@ -3,6 +3,7 @@
 I'm Ian. Thanks for coming. Here's what to expect:
 
 * [About me](#about-me)
+* [Node apps](#node-apps)
 * [Web apps](#web-apps)
 * [Custom libraries](#custom-libraries)
 * [Courses and tutorials](#courses-and-tutorials)
@@ -13,6 +14,10 @@ I'm Ian. Thanks for coming. Here's what to expect:
 I have deep knowledge of JavaScript and have been using it since 1996. I launched a business building full-stack web sites and was known as the "JavaScript guy" for other design companies that needed my computer science and software development expertise for their apps, components, libraries, widgets, games, animations, data visualizations, and custom algorithms. I've been programming since childhood (starting with a flavor of Fortran!) and working in web development as long as there's been a web to develop for. I have a master's degree in information technology.
 
 For the last decade I've focused on web development education as a technical training specialist, curriculum developer, instructional designer, and technical writer. I've helped well over three thousand students learn HTML, CSS, JavaScript (including frameworks like React, Svelte, etc.), Node, database design and management, computer science, application development, SDLC, Agile, programming paradigms, algorithmic thinking, efficiency, accessibility, web security, constantly evolving best practices, and how to survive a coding boot camp.
+
+## Node apps
+
+* **[Chatbotian](https://github.com/ianJStutor/chatbotian):** **Node.js**, **ChatGPT**. Chat bot for the terminal.
 
 ## Web apps
 
