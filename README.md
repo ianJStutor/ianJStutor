@@ -3,7 +3,7 @@
 I'm Ian. Thanks for coming. Here's what to expect:
 
 * [About me](#about-me)
-* [Node apps](#node-apps)
+* [Desktop apps](#desktop-apps)
 * [Web apps](#web-apps)
 * [Custom libraries](#custom-libraries)
 * [Courses and tutorials](#courses-and-tutorials)
@@ -15,7 +15,7 @@ I have deep knowledge of JavaScript and have been using it since 1996. I launche
 
 For the last decade I've focused on web development education as a technical training specialist, curriculum developer, instructional designer, and technical writer. I've helped well over three thousand students learn HTML, CSS, JavaScript (including frameworks like React, Svelte, etc.), Node, database design and management, computer science, application development, SDLC, Agile, programming paradigms, algorithmic thinking, efficiency, accessibility, web security, constantly evolving best practices, and how to survive a coding boot camp.
 
-## Node apps
+## Desktop apps
 
 * **[Chatbotian](https://github.com/ianJStutor/chatbotian):** **Node.js**, **ChatGPT**. Chat bot for the terminal.
 
@@ -33,6 +33,7 @@ For the last decade I've focused on web development education as a technical tra
 * **[Expenseian](https://github.com/ianJStutor/expenseian):** **React.js**, **unit testing**. Expense manager.
 * **[Bloggian](https://github.com/ianJStutor/bloggian):** **React.js**, **Express**, **MongoDB**, **auth**. Blog platform.
 * **[Portfolioian](https://github.com/ianJStutor/portfolioian):** **React.js**, **Tailwind**. Portfolio site.
+* **[Imageian](https://github.com/ianJStutor/imageian):** **Node**, **Express**, **Open AI**. Text-to-image generator.
 * **[Whiteboardian](https://github.com/ianJStutor/whiteboard):** **Vanilla**. The web app I use when I'm teaching on Zoom
 
 ## Custom libraries
