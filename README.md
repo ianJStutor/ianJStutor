@@ -24,6 +24,7 @@ For the last decade I've focused on web development education as a technical tra
 * **[Analytician](https://github.com/ianJStutor/analyticsian):** **Next.js**, **TypeScript**, **Tailwind**, **Upstash/Redis**, **data viz**. Site analytics.
 * **[Weatherian](https://github.com/ianJStutor/weatherian):** **Next.js**, **TypeScript**, **Tailwind**, **api**. Weather app.
 * **[Dadjokesian](https://github.com/ianJStutor/dadjokesian):** **Next.js**, **Tailwind**, **Supabase**, **auth**, **api**. Dad-joke repository.
+* **[eCommerceian](https://github.com/ianJStutor/ecommerceian):** **Svelte.js**, **TypeScript**, **Tailwind**, **Stripe**. E-commerce site.
 * **[Authian](https://github.com/ianJStutor/authian):** **Next.js**, **Tailwind**, **Clerk**, **auth**. Authenticator.
 * **[Todoian](https://github.com/ianJStutor/todoian):** **Next.js**, **TypeScript**, **Tailwind**, **Prisma**, **MongoDB**, **auth**. Todo manager.
 * **[Keywordian](https://github.com/ianJStutor/keywordian):** **React.js**, **Open AI**. Keyword extractor.
