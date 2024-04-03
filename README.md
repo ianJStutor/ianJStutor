@@ -37,13 +37,14 @@ For the last decade I've focused on web development education as a technical tra
 * **[Bloggian](https://github.com/ianJStutor/bloggian):** **React.js**, **Express**, **MongoDB**, **auth**. Blog platform.
 * **[Portfolioian](https://github.com/ianJStutor/portfolioian):** **React.js**, **Tailwind**. Portfolio site.
 * **[Imageian](https://github.com/ianJStutor/imageian):** **Node**, **Express**, **Open AI**. Text-to-image generator.
-* **[Whiteboardian](https://github.com/ianJStutor/whiteboard):** **Vanilla**. The web app I use when I'm teaching on Zoom
+* **[Whiteboardian](https://github.com/ianJStutor/whiteboard):** **Vanilla**. The web app I use when I'm teaching on Zoom.
 
 ## Custom libraries
 
-* **[Better random](https://github.com/ianJStutor/better-random):** A seeded JavaScript PRNG that uses a linear congruential generator algorithm
-* **[Vec2](https://github.com/ianJStutor/vec2):** 2D vector support in JavaScript
-* **[Linked list](https://github.com/ianJStutor/linked-list):** Memory-efficient data structure in JavaScript
+* **[QuadTree](https://github.com/ianJStutor/quadtree):** 2D spacial partitioning tool in O(log n) time.
+* **[Better random](https://github.com/ianJStutor/better-random):** A seeded JavaScript PRNG that uses a linear congruential generator algorithm.
+* **[Vec2](https://github.com/ianJStutor/vec2):** 2D vector support.
+* **[Linked list](https://github.com/ianJStutor/linked-list):** Memory-efficient data structure.
 
 ## Courses and tutorials
 
