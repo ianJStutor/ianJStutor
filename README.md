@@ -41,6 +41,7 @@ For the last decade I've focused on web development education as a technical tra
 
 ## Custom libraries
 
+* **[Neural network](https://github.com/ianJStutor/neural-network):** Simplified fully connected, feed-forward machine learning system for JavaScript.
 * **[QuadTree](https://github.com/ianJStutor/quadtree):** 2D spacial partitioning tool in O(log n) time.
 * **[Better random](https://github.com/ianJStutor/better-random):** A seeded JavaScript PRNG that uses a linear congruential generator algorithm.
 * **[Vec2](https://github.com/ianJStutor/vec2):** 2D vector support.
