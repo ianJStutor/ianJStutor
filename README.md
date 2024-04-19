@@ -15,7 +15,7 @@ I have deep knowledge of JavaScript and have been using it since 1996. I launche
 
 I have a master's degree in information technology, 4.0 GPA.
 
-For the last decade I've focused on web development education as a technical training specialist, curriculum developer, instructional designer, and technical writer. I've helped well over three thousand students learn HTML, CSS, JavaScript (including frameworks like React, Next, Svelte, etc.), Node, database design and management, computer science, application development, SDLC, Agile, programming paradigms, algorithmic thinking, efficiency, accessibility, web security, navigating constantly evolving best practices, and how to survive a coding boot camp.
+For the last decade I've focused on web development education as a technical training specialist, curriculum developer, instructional designer, and technical writer. I've helped well over three thousand students learn HTML, CSS, JavaScript (including frameworks like React, Next, Svelte, etc.), Node, database design and management, computer science, application development, SDLC, Agile, programming paradigms, algorithmic thinking, efficiency, accessibility, web security, navigating constantly evolving best practices, and surviving a coding boot camp.
 
 ## Desktop apps
 
